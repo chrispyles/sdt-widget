@@ -1,0 +1,9 @@
+name: voila
+channels:
+  - conda-forge
+dependencies:
+  - voila=0.1.10
+  - matplotlib
+  - sympy
+  - ipywdigets
+  - numpy
