@@ -5,5 +5,5 @@ dependencies:
   - voila=0.1.10
   - matplotlib
   - sympy
-  - ipywdigets
+  - ipywidgets
   - numpy
